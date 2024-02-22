@@ -1,5 +1,4 @@
 # RBI-Bank-Loan-Analysis-Project
-RBI Bank Loan Analysis Project
 The project's goal is to collect the data from the bank database, clean the data, explore the required data with respect to company requirements, and then analyze the good loans, bad loans, bank amount funded, bank profit, bank loss, etc.
 # Project Website link
 https://public.tableau.com/views/RBIBankLoanAnalysisProject/Overview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
