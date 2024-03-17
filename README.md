@@ -2,11 +2,11 @@
 The project's goal is to collect the data from the bank database, clean the data, explore the required data with respect to company requirements, and then analyze the good loans, bad loans, bank amount funded, bank profit, bank loss, etc.
 ## Tech Stack & Process involved in building the project
 <B> Step 1: <B/> Collect the necessary details about the Bank loan analysis report by the client.<br/>
-<B> Step 2: <B/>(Explore Process) Fletch the data from the client Database to "MS SQL Server".< br/>
+<B> Step 2: <B/>(Explore Process) Fletch the data from the client Database to "MS SQL Server".<br/>
 <B> Step 3: <B/>(Load Process) Analyze & Clean the data according to "Key Performance Indicator(KPI's)".<br/>
 <B> Step 4: <B/>Deal with the null, missing, and error data to project requirements using "MS SQL Server or Excel".<br/>
 <B> Step 5: <B/>(Transform Process) Clean data transform to "Tableau". <br/>
-<B> Step 6: <B/> Create a Dashboard according to requirement in "Tableau".
+<B> Step 6: <B/> Create a Dashboard according to the requirement in "Tableau".
 
 ## Projects Features
 -> Better decision-making with respect to bad loans & good loans<br/>
