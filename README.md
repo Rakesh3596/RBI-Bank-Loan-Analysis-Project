@@ -1,8 +1,8 @@
 # RBI-Bank-Loan-Analysis-Project
 The project's goal is to collect the data from the bank database, clean the data, explore the required data with respect to company requirements, and then analyze the good loans, bad loans, bank amount funded, bank profit, bank loss, etc.
 ## Tech Stack
-MS SQL Server : Collecting the data from the Database and perform CURD Operation for the required task.
-Tableau : Analysing and creating a Dashboard.
+MS SQL Server : Collecting the data from the Database and perform CURD Operation for the required task.</b>
+Tableau : Analysing and creating a Dashboard.</b>
 Excel : Clean, Explore and Manupulating the Data.
 # Project Website link
 https://public.tableau.com/views/RBIBankLoanAnalysisProject/Overview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
