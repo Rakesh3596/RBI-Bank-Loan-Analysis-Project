@@ -1,5 +1,5 @@
 # RBI-Bank-Loan-Analysis-Project
-The project's goal is to collect the data from the bank database, clean the data, explore the required data with respect to company requirements, and then analyze the good loans, bad loans, bank amount funded, bank profit, bank loss, etc and create a dashboard using Tableau wrt KPIs.
+The project's goal is to collect the data from the bank database, clean the data, explore the required data with respect to company requirements, and then analyze the good loans, bad loans, bank amount funded, bank profit, bank loss, etc and create a dashboard using Tableau with respect to KPIs.
 ## Tech Stack & Process involved in building the project
 <B> Step 1: <B/> Collect the necessary details about the Bank loan analysis report by the client.<br/>
 <B> Step 2: <B/>(Explore Process) Fletch the data from the client Database to "MS SQL Server".<br/>
